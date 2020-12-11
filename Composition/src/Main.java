@@ -10,6 +10,7 @@ televizyon ekranı televizyona ait bir kumanda bir adet decoder ve decoder kuman
 televizyon dan görüntü almak için bunlara ihtiyacınız var decoder tek başına anlam ifade etmiyor,decoder kumandası tek başına anlam ifade etmiyor
 ama hepsi bir araya geldiğinde anlamlı bir bütün oluşturuyor.
 Bu ve buna benzer yapılar için composition kullanmak mantıklıdır....(Tabiri elimden geldiğince anlaşılır yapmaya çalıştım eksiklerim için özür dilerim)
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 */
 public class Main {//Burası bizim test alanımızdır.
     public static void main(String[] args) {
